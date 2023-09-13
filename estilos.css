@@ -1,0 +1,11 @@
+h1{
+    font-family: monospace;
+    color: darkgoldenrod;
+}
+
+p{
+    font-family: fantasy;
+    font-size: 14;
+    color: darkslateblue;
+    background-color: cornflowerblue;
+}
